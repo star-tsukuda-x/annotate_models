@@ -1,4 +1,8 @@
-## Annotate (aka AnnotateModels)
+# 日本語のコメントを対応できるようにフォークしたものです。
+## https://github.com/ctran/annotate_models/issues/946 にcommentしたが、2022年で開発が止まっていそうな上、後継っぽいannotaterbでも日本語のコメントは対応されてないので、こちらを書いた。
+
+
+## forked from the Annotate aka AnnotateModels gem
 
 [![Gem Version](https://badge.fury.io/rb/annotate.svg)](http://badge.fury.io/rb/annotate)
 [![Downloads count](https://img.shields.io/gem/dt/annotate.svg?style=flat)](https://rubygems.org/gems/annotate)
